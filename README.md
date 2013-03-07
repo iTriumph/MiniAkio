@@ -1,4 +1,8 @@
-### 关于MiniAkio
+## MiniAkio 1.0
+
+现在这个项目已经__不再维护__，留在这里可以供学习 Bottle 参考，现在已经使用 Tornado 重写了，称为 [MiniAkio 2.0][7]。
+
+### 关于 MiniAkio
 
 MiniAkio是使用Python开发的一个简单的博客系统，使用了Bottle、Jinja2，并采用Markdown格式写作。由于开发一个博客系统是重复造轮子的事，因此这个博客系统主要是用做参考，可以供学习Bottle的参考，当然，是可以运行的，但安装比较麻烦。
 
@@ -24,3 +28,4 @@ MiniAkio是使用Python开发的一个简单的博客系统，使用了Bottle、
 [4]:http://pygments.org/
 [5]:http://bottlepy.org/docs/dev/tutorial.html#deployment
 [6]:http://serholiu.com/picky/MiniAkio
+[7]:https://github.com/SerhoLiu/serholiu.com
